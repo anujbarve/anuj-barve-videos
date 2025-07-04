@@ -5,6 +5,7 @@ export default makeScene2D(function* (view) {
   view.fontFamily(`'JetBrains Mono', monospace`).fontWeight(700).fontSize(256);
   const imageRect = createRef<Rect>();
   const camera = createRef<Camera>();
+  const image = createRef<Img>();
 
   const NEON_BLUE = "#5465FF";
   const CORNFLOWER_BLUE = "#788bff";
@@ -49,7 +50,11 @@ export default makeScene2D(function* (view) {
               src={"https://images.pexels.com/photos/32846723/pexels-photo-32846723.jpeg"}
               layout={false}
               size={() => imageRect().size()}
+              ref={image}
             />
+            <Layout layout={false}>
+              <Txt layout={false} text="IT WORKS" fontSize={200} fill={LIGHT_CYAN} />
+            </Layout>
           </Rect>
           <Rect
             grow={2}
@@ -59,14 +64,13 @@ export default makeScene2D(function* (view) {
             alignItems="center"
             justifyContent="center"
           >
-            <Layout layout={false}>
-              <Txt layout={false} text="SM" />
-            </Layout>
+
           </Rect>
 
         </Layout>
       </Layout>
     </Camera>,
   );
-  yield* camera().position.y(-500, 4, easeInOutCubic)
+
+  yield* camera().position.y(-500, 4, easeInOutCubic);
 });

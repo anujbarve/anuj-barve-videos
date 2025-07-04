@@ -1,11 +1,13 @@
 import { Camera, Img, Layout, Rect, Txt, makeScene2D } from '@motion-canvas/2d';
-import { createRef, easeInCubic, easeInElastic, easeInOutCubic } from '@motion-canvas/core';
+import { all, createRef, easeInCubic, easeInElastic, easeInOutCubic } from '@motion-canvas/core';
 
 export default makeScene2D(function* (view) {
   view.fontFamily(`'JetBrains Mono', monospace`).fontWeight(700).fontSize(256);
   const imageRect = createRef<Rect>();
   const camera = createRef<Camera>();
   const image = createRef<Img>();
+  const rect1 = createRef<Rect>();
+  const rect2 = createRef<Rect>();
 
   const NEON_BLUE = "#5465FF";
   const CORNFLOWER_BLUE = "#788bff";
@@ -28,7 +30,7 @@ export default makeScene2D(function* (view) {
                 <Rect grow={2} fill={CORNFLOWER_BLUE} radius={20} />
               </Layout>
               <Layout grow={5.5} gap={20}>
-                <Rect grow={10} fill={LIGHT_CYAN} radius={20} lineWidth={2} />
+                <Rect grow={10} fill={LIGHT_CYAN} ref={rect1} radius={20} lineWidth={2} />
               </Layout>
             </Layout>
             <Layout grow={3} gap={20}>
@@ -64,13 +66,34 @@ export default makeScene2D(function* (view) {
             alignItems="center"
             justifyContent="center"
           >
-
           </Rect>
-
         </Layout>
       </Layout>
     </Camera>,
   );
 
-  yield* camera().position.y(-500, 4, easeInOutCubic);
+  yield* camera().centerOn(rect1(), 4);
+
+  view.add(<Rect ref={rect2} width={rect1().width} height={rect1().height} fill={rect1().fill} radius={rect1().radius}></Rect>);
+
+  yield* all(
+    rect2().width(1920, 2),
+    rect2().height(1080, 2),
+    rect2().fill(LIGHT_CYAN, 2),
+    rect2().radius(0, 2)
+  )
+
+
+
+
+  yield* all(
+    rect2().width(rect1().width, 2),
+    rect2().height(rect1().height, 2),
+    rect2().fill(NEON_BLUE, 2),
+    rect2().radius(rect1().radius, 2),
+  )
+
+  yield* rect2().opacity(0,1);
+  
+
 });

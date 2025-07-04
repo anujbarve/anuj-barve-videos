@@ -30,11 +30,11 @@ export default makeScene2D(function* (view) {
                 <Rect grow={2} fill={CORNFLOWER_BLUE} radius={20} />
               </Layout>
               <Layout grow={5.5} gap={20}>
-                <Rect grow={10} fill={LIGHT_CYAN} ref={rect1} radius={20} lineWidth={2} />
+                <Rect grow={10} fill={LIGHT_CYAN} radius={20} lineWidth={2} />
               </Layout>
             </Layout>
             <Layout grow={3} gap={20}>
-              <Rect grow={2} fill={PERIWINKLE} radius={20} />
+              <Rect grow={2} fill={PERIWINKLE} ref={rect1}  radius={20} />
               <Rect grow={6} fill={PERIWINKLE} radius={20} />
             </Layout>
           </Layout>
@@ -74,7 +74,7 @@ export default makeScene2D(function* (view) {
 
   yield* beginSlide("BEGIN");
 
-  yield* camera().centerOn(rect1(), 4);
+  yield* camera().centerOn(rect1(), 2);
 
   view.add(<Rect ref={rect2} width={rect1().width} height={rect1().height} fill={rect1().fill} radius={rect1().radius}></Rect>);
 
@@ -94,7 +94,7 @@ export default makeScene2D(function* (view) {
   yield* all(
     rect2().width(rect1().width, 2),
     rect2().height(rect1().height, 2),
-    rect2().fill(NEON_BLUE, 2),
+    rect2().fill(rect1().fill, 2),
     rect2().radius(rect1().radius, 2),
   )
 

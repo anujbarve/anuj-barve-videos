@@ -1,5 +1,5 @@
 import { Camera, Img, Layout, Rect, Txt, makeScene2D } from '@motion-canvas/2d';
-import { all, createRef, easeInCubic, easeInElastic, easeInOutCubic } from '@motion-canvas/core';
+import { all, beginSlide, createRef, easeInCubic, easeInElastic, easeInOutCubic } from '@motion-canvas/core';
 
 export default makeScene2D(function* (view) {
   view.fontFamily(`'JetBrains Mono', monospace`).fontWeight(700).fontSize(256);
@@ -72,9 +72,14 @@ export default makeScene2D(function* (view) {
     </Camera>,
   );
 
+  yield* beginSlide("BEGIN");
+
   yield* camera().centerOn(rect1(), 4);
 
   view.add(<Rect ref={rect2} width={rect1().width} height={rect1().height} fill={rect1().fill} radius={rect1().radius}></Rect>);
+
+
+  yield* beginSlide("DEMO");
 
   yield* all(
     rect2().width(1920, 2),
@@ -84,7 +89,7 @@ export default makeScene2D(function* (view) {
   )
 
 
-
+  yield* beginSlide("DEMO2");
 
   yield* all(
     rect2().width(rect1().width, 2),
@@ -93,7 +98,9 @@ export default makeScene2D(function* (view) {
     rect2().radius(rect1().radius, 2),
   )
 
-  yield* rect2().opacity(0,1);
-  
+  yield* rect2().opacity(0, 1);
 
+  yield* beginSlide("END");
+
+  yield* camera().reset(2);
 });

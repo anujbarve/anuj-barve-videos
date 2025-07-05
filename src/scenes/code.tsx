@@ -1,13 +1,23 @@
-import { makeScene2D, Code, lines } from '@motion-canvas/2d';
+import { makeScene2D, Code, lines, Rect } from '@motion-canvas/2d';
 import { createRef, DEFAULT, waitFor } from '@motion-canvas/core';
+
+const colorPrimary = '#5465ff';
+const colorSecondary = '#788bff';
+const colorTertiary = '#9bb1ff';
+const colorLight = '#bfd7ff';
+const colorLighter = '#e2fdff';
+
 
 export default makeScene2D(function* (view) {
     const code = createRef<Code>();
 
+    view.add(<Rect height={1080} width={1920} fill={colorLighter}></Rect>)
+
     view.add(
         <Code
+            fill={colorPrimary}
             ref={code}
-            fontSize={50}
+            fontSize={28}
             offsetX={-1}
             x={-800}
             code=

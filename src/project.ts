@@ -5,8 +5,9 @@ import charts from './scenes/charts?scene';
 import code from './scenes/code?scene';
 import s1 from './scenes/vid1/s1?scene';
 import audio from "./audio/algorithms.mp3"
+import s2 from './scenes/vid1/s2?scene';
 
 export default makeProject({
-  scenes: [s1],
-  audio : audio
+  scenes: [s1,s2],
+  // audio : audio
 });

@@ -58,5 +58,5 @@ Just like a recipe tells you how to make a cake
 — an algorithm tells your computer how to solve a problem.
         `, 1);
 
-    yield* waitUntil("algorithm explaination finished");
+    yield* waitUntil("s1 done");
 });

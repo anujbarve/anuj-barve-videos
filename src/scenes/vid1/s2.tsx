@@ -72,7 +72,7 @@ export default makeScene2D(function* (view) {
             rect().rotation(10,2).to(20,2),
             rect2().stroke(NEON_BLUE,2),
             rect2().lineWidth(20,2),
-            rect2().opacity(0.2,2),
+            rect2().opacity(0.1,2),
             rect2().rotation(10,2).to(20,2)
         )
     );  

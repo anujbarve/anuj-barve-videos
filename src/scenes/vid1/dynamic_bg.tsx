@@ -74,7 +74,7 @@ export default makeScene2D(function* (view) {
                 />
             );
 
-            columnRefs.push(rectRef); // ✅ Now valid
+            columnRefs.push(rectRef); 
         }
 
         rectRefs.push(columnRefs);
@@ -91,8 +91,8 @@ export default makeScene2D(function* (view) {
                     all(
                         ref().rotation(20, 2).to(-20, 2),
                         ref().opacity(0.2, 2).to(0.4, 2),
-                        ref().stroke(NEON_BLUE,2),
-                        ref().lineWidth(5,2),
+                        ref().stroke(NEON_BLUE,2).to(DARK_PURPLE,2),
+                        ref().lineWidth(5,2).to(10,2),
                     )
                 )
             )

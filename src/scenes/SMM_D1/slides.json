@@ -1,0 +1,177 @@
+[
+  {
+    "slideId": "S1",
+    "miniTitle": "Introduction",
+    "title": "Introduction to Social Media Marketing",
+    "description": "Social media marketing uses platforms to connect with audiences.\n\nIt promotes brands, builds loyalty, and increases sales.\n\nEssential for real-time engagement and customer feedback.\n\nPlatforms vary in purpose, tone, and audience.\n\nMarketing strategies must adapt to each platform’s strengths.\n\nData-driven decisions ensure better performance and ROI.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S2",
+    "miniTitle": "History",
+    "title": "Evolution of Social Media Platforms",
+    "description": "Early platforms like MySpace paved the way.\n\nFacebook revolutionized how users interact with brands.\n\nInstagram and TikTok added visual and short-form appeal.\n\nLinkedIn remains the leader in professional networking.\n\nPlatforms constantly evolve with new features and algorithms.\n\nMarketers must stay informed to remain effective.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S3",
+    "miniTitle": "Benefits",
+    "title": "Benefits of Social Media Marketing",
+    "description": "Enhances brand awareness and recall.\n\nDrives targeted traffic to websites or landing pages.\n\nSupports customer service and real-time feedback.\n\nBuilds community and customer loyalty.\n\nAllows affordable, measurable advertising campaigns.\n\nIdeal for small businesses and global enterprises alike.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S4",
+    "miniTitle": "Facebook",
+    "title": "Platform Overview: Facebook",
+    "description": "Broadest demographic reach, ideal for all industries.\n\nSupports long-form posts, groups, and live videos.\n\nRobust Ads Manager with granular targeting.\n\nMessenger facilitates real-time interaction with users.\n\nIdeal for community-building and paid campaigns.\n\nGreat for retargeting and multi-step funnels.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S5",
+    "miniTitle": "Instagram",
+    "title": "Platform Overview: Instagram",
+    "description": "Highly visual and mobile-first platform.\n\nAppeals to younger demographics (18–34).\n\nFeatures include Reels, Stories, and Shopping.\n\nStrong influencer ecosystem for brand partnerships.\n\nBest for lifestyle, fashion, food, and travel content.\n\nHashtags and visuals drive discovery and engagement.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S6",
+    "miniTitle": "LinkedIn",
+    "title": "Platform Overview: LinkedIn",
+    "description": "Professional networking and B2B marketing.\n\nIdeal for recruiters, marketers, and job seekers.\n\nSupports long-form posts, articles, and company updates.\n\nHigh engagement on thought leadership content.\n\nLinkedIn Ads effective for niche, professional audiences.\n\nBuilds authority and industry presence.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S7",
+    "miniTitle": "Twitter (X)",
+    "title": "Platform Overview: Twitter (X)",
+    "description": "Real-time updates, trends, and short messaging.\n\nHigh usage for news, politics, and events.\n\nGreat for customer service and rapid announcements.\n\nSupports threads, spaces, and promoted tweets.\n\nTwitter Ads useful for brand visibility.\n\nUse hashtags and trends to stay relevant.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S8",
+    "miniTitle": "TikTok",
+    "title": "Platform Overview: TikTok",
+    "description": "Short-form, entertaining video content.\n\nAudience is largely Gen Z and young millennials.\n\nHighly engaging, trend-driven, and viral in nature.\n\nGreat for challenges, behind-the-scenes, and UGC.\n\nTikTok Creator Marketplace connects brands with influencers.\n\nUse sounds, filters, and effects to boost visibility.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S9",
+    "miniTitle": "YouTube",
+    "title": "Platform Overview: YouTube",
+    "description": "Long-form video content, ideal for education and branding.\n\nGreat for tutorials, testimonials, and product demos.\n\nYouTube Shorts boosts short-form visibility.\n\nIntegrates well with Google Ads ecosystem.\n\nInfluencer collaborations perform strongly here.\n\nValuable for building trust and authority.",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/1200px-YouTube_social_white_square_%282024%29.svg.png"
+  },
+  {
+    "slideId": "S10",
+    "miniTitle": "Demographics",
+    "title": "Audience Demographics by Platform",
+    "description": "Facebook: 25–44 age range, wide usage across sectors.\n\nInstagram: 18–34 users, skewed female.\n\nLinkedIn: 25–54, professionals with high income.\n\nTikTok: 16–24 dominant; fast-growing Gen Z base.\n\nTwitter: Balanced demographics, more urban users.\n\nYouTube: All ages; strong with males aged 18–34.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S11",
+    "miniTitle": "Personas",
+    "title": "Understanding Buyer Personas",
+    "description": "Personas reflect your ideal customer profiles.\n\nBased on age, location, interests, pain points, goals.\n\nHelps personalize messaging and content tone.\n\nEach platform may target different personas.\n\nUse analytics to refine and update personas.\n\nCrucial for effective targeting and content creation.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S12",
+    "miniTitle": "Formats",
+    "title": "Content Types Across Platforms",
+    "description": "Text: LinkedIn updates, tweets.\n\nImages: Instagram posts, Facebook carousels.\n\nVideos: Reels, Shorts, TikToks, YouTube.\n\nLive content: Facebook Live, IG Live, Spaces.\n\nStories: Ephemeral, engaging, and interactive.\n\nBlog links: Shared via Facebook, LinkedIn, Twitter.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S13",
+    "miniTitle": "Visuals",
+    "title": "Importance of Visual Content",
+    "description": "Visuals increase engagement and retention.\n\nUse branded templates for consistency.\n\nInfographics perform well on LinkedIn and Pinterest.\n\nProduct demos and behind-the-scenes boost authenticity.\n\nShort videos get more shares and saves.\n\nMaintain high quality and mobile-optimization.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S14",
+    "miniTitle": "Calendar",
+    "title": "Content Calendar Planning",
+    "description": "Organize posts by day, platform, and format.\n\nAlign with events, launches, and seasonal themes.\n\nHelps maintain consistency and track performance.\n\nUse tools like Trello, Notion, or Buffer.\n\nInclude hashtags, captions, and image assets.\n\nPlan weekly, but stay flexible for trends.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S15",
+    "miniTitle": "Storytelling",
+    "title": "Storytelling in Social Media",
+    "description": "Builds emotional connection and brand personality.\n\nHighlight customer stories, challenges, or behind-the-scenes.\n\nUse a narrative arc: problem, solution, success.\n\nIdeal for Instagram, Facebook, LinkedIn.\n\nAuthenticity increases shares and saves.\n\nStories should inspire, inform, or entertain.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S16",
+    "miniTitle": "Features",
+    "title": "Platform-Specific Features",
+    "description": "Facebook: Groups, Events, Marketplace.\n\nInstagram: Reels, Stories, Shopping.\n\nLinkedIn: Articles, Job Listings.\n\nTikTok: Duets, Stitch, For You page.\n\nTwitter: Threads, Spaces.\n\nLeverage these to maximize content reach.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S17",
+    "miniTitle": "Hashtags",
+    "title": "Hashtags and Discovery",
+    "description": "Hashtags organize content and improve discoverability.\n\nUse trending hashtags for visibility.\n\nPlatform-specific behavior: limited on LinkedIn, key on Instagram.\n\nBranded hashtags aid campaigns and UGC.\n\nAvoid overstuffing—balance relevance and clarity.\n\nMonitor hashtag performance regularly.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S18",
+    "miniTitle": "Influencers",
+    "title": "Influencer Collaboration",
+    "description": "Influencers provide trust and access to niche audiences.\n\nChoose based on audience fit, not just followers.\n\nMicro-influencers offer high engagement rates.\n\nCollaborate for giveaways, unboxings, or product reviews.\n\nTrack ROI via affiliate links or codes.\n\nDisclose partnerships to maintain transparency.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S19",
+    "miniTitle": "Automation",
+    "title": "Scheduling and Automation Tools",
+    "description": "Tools help manage multiple platforms efficiently.\n\nPopular tools: Buffer, Hootsuite, Later, Meta Suite.\n\nAutomate posting, but monitor responses in real-time.\n\nSchedule during peak engagement hours.\n\nUse analytics to adjust timing.\n\nAvoid sounding robotic—engage authentically.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S20",
+    "miniTitle": "Engagement",
+    "title": "The Role of Engagement",
+    "description": "Engagement = likes, shares, comments, saves.\n\nEncourages algorithm boosts and visibility.\n\nAsk questions, use polls, respond to comments.\n\nEngagement builds trust and loyalty.\n\nPrompt replies show customer care.\n\nQuality content is a conversation starter.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S21",
+    "miniTitle": "Listening",
+    "title": "Social Listening & Feedback",
+    "description": "Monitor brand mentions, hashtags, and conversations.\n\nTools: Brand24, Mention, Sprout Social.\n\nUnderstand sentiment, trends, and user needs.\n\nRespond to feedback to improve products/services.\n\nTurn negative comments into opportunities.\n\nInsights help shape future strategy.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S22",
+    "miniTitle": "Organic vs Paid",
+    "title": "Organic vs Paid Social",
+    "description": "Organic: Unpaid posts relying on engagement and reach.\n\nPaid: Sponsored ads targeting specific audiences.\n\nOrganic builds trust, paid boosts visibility.\n\nBoth must work together for success.\n\nTrack each separately in reports.\n\nAllocate budget based on campaign goals.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S23",
+    "miniTitle": "Analytics",
+    "title": "Social Media Analytics Basics",
+    "description": "Key metrics: Reach, Impressions, Engagement, Follower Growth.\n\nPlatform insights dashboards provide native data.\n\nMonitor link clicks, video views, saves.\n\nTrack trends and optimize accordingly.\n\nUse UTM tags for external tracking.\n\nAnalyze weekly and monthly for patterns.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S24",
+    "miniTitle": "Challenges",
+    "title": "Challenges in Social Media Marketing",
+    "description": "Algorithm changes affect visibility.\n\nContent fatigue from constant posting.\n\nNegative comments or PR crises.\n\nTime-consuming without proper planning.\n\nMeasuring ROI isn’t always straightforward.\n\nSolution: stay agile, test, learn, adapt.",
+    "imgSrc": ""
+  },
+  {
+    "slideId": "S25",
+    "miniTitle": "Conclusion",
+    "title": "Recap and Takeaways",
+    "description": "Social media is diverse, fast-moving, and vital to digital marketing.\n\nChoose platforms wisely based on audience and goals.\n\nMatch content type to platform and user behavior.\n\nUse analytics and tools for consistency and growth.\n\nStay authentic, responsive, and up-to-date.\n\nSuccess lies in creativity, strategy, and adaptability.",
+    "imgSrc": ""
+  }
+]

@@ -4,6 +4,6 @@ import signals from './scenes/sandbox/signals?scene';
 import audio from './audio/SMM_D1.mp3';
 
 export default makeProject({
-  scenes: [signals],
+  scenes: [dynamic],
   // audio,
 });

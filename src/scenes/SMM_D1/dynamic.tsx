@@ -1,7 +1,8 @@
 import { makeScene2D, Rect, Txt, Img, Code } from '@motion-canvas/2d';
-import { all, createRef, waitFor, loopUntil, beginSlide } from '@motion-canvas/core';
+import { all, createRef, waitFor, loopUntil } from '@motion-canvas/core';
 
-import slides from './w3d2.json';
+// Load JSON directly (use bundler plugin or hardcode array for now)
+import slides from './w3d4.json';
 
 export default makeScene2D(function* (view) {
   view.fontFamily(`'JetBrains Mono', monospace`).fontWeight(700).fontSize(256);
@@ -11,14 +12,10 @@ export default makeScene2D(function* (view) {
   const GIANTS_ORANGE = "#f46036";
 
   for (const slide of slides) {
-    // Start slide control
-    yield* beginSlide(slide.slideId);
-
     const titleText = createRef<Txt>();
     const descText = createRef<Code>();
     const logo = createRef<Rect>();
 
-    // Background and Title Setup
     view.add(
       <Rect
         fill={DARK_PURPLE}
@@ -31,7 +28,6 @@ export default makeScene2D(function* (view) {
       </Rect>
     );
 
-    // Animate mini title -> then full title
     yield* all(titleText().text(slide.miniTitle, 1));
     yield* all(
       titleText().position.x(-850, 1),
@@ -42,7 +38,6 @@ export default makeScene2D(function* (view) {
     );
     yield* titleText().text(slide.title, 1);
 
-    // Description
     view.add(
       <Code
         ref={descText}
@@ -56,7 +51,6 @@ export default makeScene2D(function* (view) {
 
     yield* descText().code(slide.description, 1);
 
-    // Image / Logo
     view.add(
       <Rect
         ref={logo}
@@ -70,12 +64,14 @@ export default makeScene2D(function* (view) {
       </Rect>
     );
 
-    // Loop animation until slide is marked done
     yield* loopUntil(`${slide.slideId} Done`, () =>
       all(
         logo().rotation(5, 3).to(-5, 3),
         logo().opacity(0.2, 3).to(0.4, 3)
       )
     );
+
+    // Optional: clear view for next slide
+    view.removeChildren();
   }
 });

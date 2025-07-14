@@ -4,174 +4,206 @@
     "miniTitle": "Introduction",
     "title": "Introduction to Content Creation",
     "description": "Content is the backbone of social media success.\n\nQuality content builds brand image and audience trust.\n\nIt should inform, entertain, inspire, or solve problems.\n\nConsistent, valuable content drives engagement and conversions.\n\nDifferent platforms require different content strategies.\n\nWe\u2019ll cover types, design, storytelling, virality, and engagement",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S2",
     "miniTitle": "Content",
     "title": "Why Content Matters",
     "description": "Content is what your audience sees, shares, and remembers.\n\nIt shapes perception, trust, and brand voice.\n\nStrong content leads to higher reach and ROI.\n\nHelps users through the awareness, interest, and decision stages.\n\nGreat content converts followers into loyal customers.\n\nIt's your most powerful digital marketing asset",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S3",
     "miniTitle": "Types",
     "title": "Types of Social Media Content",
     "description": "Text posts: quotes, updates, tips.\n\nImages: infographics, product shots, memes.\n\nVideos: tutorials, behind-the-scenes, testimonials.\n\nStories: ephemeral, interactive, real-time content.\n\nLive Streams: real-time Q&A, launches.\n\nUser-Generated Content: reviews, reposts, mentions.\n\nMix formats to keep feeds dynamic and engaging.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/12220471/pexels-photo-12220471.jpeg",
+      "https://images.pexels.com/photos/8368350/pexels-photo-8368350.jpeg",
+      "https://images.pexels.com/photos/4498366/pexels-photo-4498366.jpeg",
+      "https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg",
+      "https://images.pexels.com/photos/7172830/pexels-photo-7172830.jpeg"
+    ]
   },
   {
     "slideId": "S4",
     "miniTitle": "Education",
     "title": "Educational Content",
     "description": "Teach your audience something valuable or interesting.\n\nHow-to guides, industry tips, tutorials perform well.\n\nPosition your brand as a helpful expert.\n\nUse carousel posts or short videos for teaching.\n\nEducational content earns shares and saves.\n\nIdeal for thought leadership and long-term engagement.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/4144222/pexels-photo-4144222.jpeg"
+    ]
   },
   {
     "slideId": "S5",
     "miniTitle": "Entertaining",
     "title": "Entertaining Content",
     "description": "Content that entertains builds emotional connection.\n\nMemes, trends, humor, relatable scenarios perform best.\n\nUse Reels, TikToks, or casual captions.\n\nHelps humanize your brand and build rapport.\n\nMust stay relevant to your niche.\n\nEntertainment boosts reach and shareability.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/5077064/pexels-photo-5077064.jpeg",
+      "https://images.pexels.com/photos/8368350/pexels-photo-8368350.jpeg"
+    ]
   },
   {
     "slideId": "S6",
     "miniTitle": "Promotional",
     "title": "Promotional Content",
     "description": "Directly showcases products, services, or offers.\n\nShould be balanced\u2014not overly sales-focused.\n\nUse strong CTAs: \u201cShop Now,\u201d \u201cLearn More,\u201d etc.\n\nCombine with testimonials, benefits, and scarcity.\n\nAdd urgency with limited-time offers.\n\nUse retargeting to show promos to warm leads.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/5868277/pexels-photo-5868277.jpeg"
+    ]
   },
   {
     "slideId": "S7",
     "miniTitle": "Interactive",
     "title": "Interactive Content",
     "description": "Increases time spent on your content.\n\nExamples: polls, quizzes, sliders, questions.\n\nStories and comment sections are perfect for interaction.\n\nEncourages feedback, engagement, and algorithm boosts.\n\nHelps you gather audience insights.\n\nKeeps your brand memorable and engaging.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg"
+    ]
   },
   {
     "slideId": "S8",
     "miniTitle": "Inspirational",
     "title": "Inspirational Content",
     "description": "Motivates or uplifts your audience.\n\nQuotes, success stories, customer wins.\n\nWorks well for fitness, wellness, education, and business brands.\n\nVisual aesthetics are important for inspiration.\n\nKeep tone authentic and relatable.\n\nInspirational content drives emotional sharing.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg"
+    ]
   },
   {
     "slideId": "S9",
     "miniTitle": "BTS",
     "title": "Behind-the-Scenes Content",
     "description": "Shows your brand\u2019s personality and human side.\n\nOffice tours, work process, bloopers, team photos.\n\nMakes your brand more relatable and trustworthy.\n\nHelps build community and transparency.\n\nIdeal for stories, reels, or casual captions.\n\nAdds authenticity to your feed.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg"
+    ]
   },
   {
     "slideId": "S10",
     "miniTitle": "UGC",
     "title": "User-Generated Content",
     "description": "Content created by your audience or customers.\n\nExamples: testimonials, photos using your product.\n\nIncreases credibility and trust.\n\nAsk for tags or create branded hashtags.\n\nRepost with permission and credit users.\n\nUGC performs well and saves content creation time.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/3830752/pexels-photo-3830752.jpeg"
+    ]
   },
   {
     "slideId": "S11",
     "miniTitle": "VDP",
     "title": "Visual Design Principles",
     "description": "Keep visuals clean, branded, and readable.\n\nUse consistent colors, fonts, and filters.\n\nAvoid clutter; highlight one core message.\n\nUse high-resolution images and balanced spacing.\n\nAlign text with visual hierarchy.\n\nMaintain platform-specific size ratios (e.g., \n\n1080x1350 for Instagram).",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S12",
     "miniTitle": "Color",
     "title": "Color Psychology in Design",
     "description": "Colors influence perception and behavior.\n\nRed: urgency, passion. Blue: trust, calm. Yellow: happiness.\n\nAlign brand colors with messaging.\n\nUse contrast for emphasis and readability.\n\nLimit palettes to 2\u20133 dominant colors.\n\nConsistent use builds visual identity and recognition.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/325044/pexels-photo-325044.jpeg",
+      "https://images.pexels.com/photos/40465/pexels-photo-40465.jpeg"
+    ]
   },
   {
     "slideId": "S13",
     "miniTitle": "Typography",
     "title": "Typography and Readability",
     "description": "Choose 1\u20132 fonts for consistency.\n\nUse bold for headlines, light for body text.\n\nEnsure contrast between text and background.\n\nAvoid all caps except for emphasis.\n\nKeep text short and impactful.\n\nPrioritize mobile readability.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/616849/pexels-photo-616849.jpeg",
+      "https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg"
+    ]
   },
   {
     "slideId": "S14",
     "miniTitle": "Visual Tools",
     "title": "Visual Tools and Resources",
     "description": "Use Canva, Adobe Express, or Figma for content creation.\n\nFree stock images: Unsplash, Pexels, Pixabay.\n\nIcons: Flaticon, Noun Project.\n\nTemplates save time and maintain brand aesthetics.\n\nSchedule posts with design previews using Later or Buffer.\n\nCustomize assets to align with your brand.",
-    "imgSrc": ""
+    "images": [
+      "https://unsplash.com/blog/content/images/max/2560/1-vQ5EsgnJkANWb5fktHPwnw.jpeg",
+      "https://i0.wp.com/www.interhacktives.com/wp-content/uploads/2020/11/Pexels-logo.jpg?ssl=1"
+    ]
   },
   {
     "slideId": "S15",
     "miniTitle": "Storytelling",
     "title": "Introduction to Storytelling",
     "description": "Storytelling creates emotional connection and memorability.\n\nEvery story has a beginning, middle, and end.\n\nUse stories to show challenges, transformation, or results.\n\nEffective in building brand identity.\n\nIdeal for video, carousels, and long captions.\n\nReal stories build stronger communities.",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S16",
     "miniTitle": "Framework",
     "title": "Brand Story Framework",
     "description": "Hero: Your customer.\n\nProblem: Their pain point.\n\nGuide: Your brand offering help.\n\nSolution: Your product/service.\n\nResult: Positive transformation or benefit.\n\nUse this narrative across different posts for clarity and persuasion.",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S17",
     "miniTitle": "Storytelling",
     "title": "Storytelling Formats",
     "description": "Use Reels or TikToks for before-and-after stories.\n\nCarousels for case studies or brand timelines.\n\nInstagram Stories for real-time storytelling.\n\nBlogs and LinkedIn posts for detailed journeys.\n\nUse customer quotes, stats, and images for authenticity.\n\nConsistent storytelling builds brand loyalty.",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S18",
     "miniTitle": "Viral Content",
     "title": "What Makes Content Go Viral?",
     "description": "Emotionally resonant: funny, shocking, or heartwarming.\n\nSimple and clear message.\n\nVisually appealing and easy to share.\n\nTimely: tied to current events or trends.\n\nEasy participation: challenges, memes, duets.\n\nEncourage tagging and user interaction.",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S19",
     "miniTitle": "Timing",
     "title": "Timing and Trends",
     "description": "Post when your audience is most active.\n\nUse insights to find peak days and hours.\n\nJump on trending topics or audios early.\n\nTrend relevance increases reach significantly.\n\nBalance trends with brand relevance.\n\nStay agile with a mix of evergreen and trending content.",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S20",
     "miniTitle": "Hooks",
     "title": "Hooking the Audience",
     "description": "Hooks grab attention in the first few seconds.\n\nExamples: \u201cDon\u2019t scroll if you\u2026\u201d or \u201cHere\u2019s why you\u2019re failing\u2026\u201d\n\nUse bold text, animation, or emotional intrigue.\n\nGreat for Reels, TikToks, and LinkedIn posts.\n\nKeeps users watching and increases engagement time.\n\nTest hooks to see what resonates most.",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S21",
     "miniTitle": "Engagement",
     "title": "Encouraging Engagement",
     "description": "Ask questions in captions or stories.\n\nUse call-to-actions: \u201cSave this,\u201d \u201cComment below,\u201d \n\n\u201cTag a friend.\u201d\n\nUse polls and quizzes for quick feedback.\n\nEngage back: reply to comments and DMs.\n\nShow appreciation to active followers.\n\nEngagement is a two-way street.",
-    "imgSrc": ""
+    "images": ["https://images.pexels.com/photos/4549411/pexels-photo-4549411.jpeg"]
   },
   {
     "slideId": "S22",
     "miniTitle": "Hashtag",
     "title": "Hashtag Strategy",
     "description": "Hashtags increase discoverability.\n\nMix popular, niche, and branded hashtags.\n\nInstagram: 3\u20135 relevant tags per post.\n\nTwitter/X: 1\u20132 trending or topic-based tags.\n\nResearch what your audience follows.\n\nDon\u2019t spam\u2014use purposefully.",
-    "imgSrc": ""
+    "images": [
+      "https://images.pexels.com/photos/5926216/pexels-photo-5926216.jpeg"
+    ]
   },
   {
     "slideId": "S23",
     "miniTitle": "Content",
     "title": "Content Testing and Iteration",
     "description": "Test different formats, styles, and CTAs.\n\nTrack performance with platform insights.\n\nAnalyze reach, engagement, saves, and shares.\n\nDrop low-performing formats; scale winners.\n\nCreate A/B tests with captions or visuals.\n\nIterate weekly or monthly based on data.",
-    "imgSrc": ""
+    "images": []
   },
   {
     "slideId": "S24",
     "miniTitle": "Workflow",
     "title": "Content Creation Workflow",
     "description": "Ideate \u2192 Script/Write \u2192 Design \u2192 Schedule \u2192 \n\nAnalyze \u2192 Repeat.\n\nUse Notion, Trello, or Airtable for pipeline management.\n\nCollaborate with team or freelancers via shared folders.\n\nStore reusable assets in organized libraries.\n\nMaintain a monthly review rhythm for adjustments.",
-    "imgSrc": ""
+    "images": ["https://images.pexels.com/photos/8035286/pexels-photo-8035286.jpeg"]
   },
   {
     "slideId": "S25",
     "miniTitle": "Summary",
     "title": "Summary and Next Steps",
     "description": "Content is a mix of creativity, strategy, and analysis.\n\nUse a variety of formats to engage diverse audiences.\n\nFollow visual best practices and stay brand-consistent.\n\nTell stories that resonate and invite action.\n\nTap into trends, test regularly, and engage sincerely.\n\nStart creating with clarity and confidence!",
-    "imgSrc": ""
+    "images": []
   }
 ]

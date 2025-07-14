@@ -1,5 +1,5 @@
-import { makeScene2D, Rect, Txt, Img, Code } from '@motion-canvas/2d';
-import { all, createRef, waitFor, loopUntil, beginSlide } from '@motion-canvas/core';
+import { makeScene2D, Rect, Txt, Img, Code, Path, Node } from '@motion-canvas/2d';
+import { all, createRef, waitFor, loopUntil, beginSlide, waitUntil } from '@motion-canvas/core';
 
 import slides from './w3d2.json';
 
@@ -17,10 +17,12 @@ export default makeScene2D(function* (view) {
     const titleText = createRef<Txt>();
     const descText = createRef<Code>();
     const logo = createRef<Rect>();
+    const bg_rect = createRef<Rect>();
 
     // Background and Title Setup
     view.add(
       <Rect
+        ref={bg_rect}
         fill={DARK_PURPLE}
         width={1920}
         height={1080}
@@ -43,7 +45,7 @@ export default makeScene2D(function* (view) {
     yield* titleText().text(slide.title, 1);
 
     // Description
-    view.add(
+    bg_rect().add(
       <Code
         ref={descText}
         offset={[-1, -1]}
@@ -56,26 +58,51 @@ export default makeScene2D(function* (view) {
 
     yield* descText().code(slide.description, 1);
 
-    // Image / Logo
-    view.add(
-      <Rect
-        ref={logo}
-        position={[750, 350]}
-        size={[250, 250]}
-        opacity={0.4}
-        radius={20}
-        clip
-      >
-        <Img src={slide.imgSrc} layout={false} size={() => logo().size()} />
-      </Rect>
-    );
+    if (slide.images.length > 0) {
+      // ⏸️ Wait before starting the image sequence
+      yield* waitUntil(`${slide.slideId}-img-start`);
 
-    // Loop animation until slide is marked done
-    yield* loopUntil(`${slide.slideId} Done`, () =>
-      all(
-        logo().rotation(5, 3).to(-5, 3),
-        logo().opacity(0.2, 3).to(0.4, 3)
-      )
-    );
+      const emptyImageRect = createRef<Rect>();
+      bg_rect().add(
+        <Rect
+          ref={emptyImageRect}
+          height={1080}
+          width={1920}
+        >
+        </Rect>
+      );
+
+      // ✅ Now add actual images with control
+      for (let i = 0; i < slide.images.length; i++) {
+        const element = slide.images[i];
+        const imageRect = createRef<Rect>();
+
+        bg_rect().add(
+          <Rect
+            ref={imageRect}
+            height={1080}
+            width={1920}
+            fill={DARK_PURPLE}
+          >
+            <Img
+              radius={50}
+              height={"90%"}
+              src={element}
+              zIndex={20}
+            />
+          </Rect>
+        );
+
+        // ⏸️ Wait for this image to be manually triggered
+        yield* waitUntil(`${slide.slideId}-img-${i}`);
+
+        // 🎬 Optional transition out
+        yield* imageRect().opacity(0, 0.1);
+      }
+    }
+
+
+
+    yield* waitUntil(slide.slideId);
   }
 });

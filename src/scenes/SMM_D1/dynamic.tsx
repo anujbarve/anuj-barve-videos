@@ -1,7 +1,7 @@
 import { makeScene2D, Rect, Txt, Img, Code, Path, Node } from '@motion-canvas/2d';
 import { all, createRef, waitFor, loopUntil, beginSlide, waitUntil } from '@motion-canvas/core';
 
-import slides from './w3d3.json';
+import slides from './w3d4.json';
 
 export default makeScene2D(function* (view) {
   view.fontFamily(`'JetBrains Mono', monospace`).fontWeight(700).fontSize(256);
@@ -71,7 +71,7 @@ export default makeScene2D(function* (view) {
         >
         </Rect>
       );
-      const slidesWithWideImages = ["S5"];
+      const slidesWithWideImages = ["S4","S7"];
 
       // ✅ Now add actual images with control
       for (let i = 0; i < slide.images.length; i++) {

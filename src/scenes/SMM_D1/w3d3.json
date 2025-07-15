@@ -1,177 +1,213 @@
 [
   {
-    "slideId": "Day3_S1",
-    "miniTitle": "Day 3",
-    "title": "Introduction to Social",
-    "description": "Media Advertising\n\nSocial media advertising allows businesses to reach \n\ntargeted audiences.\n\nIt provides measurable results and wide reach at low \n\ncost.\n\nAds can be used for awareness, engagement, or \n\nconversions.\n\nEach platform offers unique ad tools and formats.\n\nThis session explores targeting, formats, budget use, \n\nand creativity.\n\nMastering ads boosts ROI and brand visibility.\n\n1",
-    "imgSrc": ""
+    "slideId": "S1",
+    "miniTitle": "Introduction",
+    "title": "Introduction to Social Media Advertising",
+    "description": "Social media advertising allows businesses to reach targeted audiences.\n\nIt provides measurable results and wide reach at low cost.\n\nAds can be used for awareness, engagement, or conversions.\n\nEach platform offers unique ad tools and formats.\n\nThis session explores targeting, formats, budget use, and creativity.\n\nMastering ads boosts ROI and brand visibility.",
+    "images" : [
+      "https://blog.hurree.co/hs-fs/hubfs/2024%20Blog/must%20have%20tools%20for%20every%20stage%20of%20the%20markeitng%20funnel05.png?width=2451&height=1980&name=must%20have%20tools%20for%20every%20stage%20of%20the%20markeitng%20funnel05.png"
+    ]
   },
   {
-    "slideId": "Day3_S2",
-    "miniTitle": "Day 3",
-    "title": "Why Businesses Use Social",
-    "description": "Ads\n\nSocial ads increase visibility and drive traffic.\n\nThey support brand awareness and lead generation.\n\nCustom targeting boosts efficiency and conversions.\n\nCampaigns can scale quickly with budget control.\n\nReal-time metrics help optimize performance.\n\nSocial media offers a level playing field for small and \n\nlarge brands.\n\n2",
-    "imgSrc": ""
+    "slideId": "S2",
+    "miniTitle": "Why",
+    "title": "Why Businesses Use Social Ads",
+    "description": "Social ads increase visibility and drive traffic.\n\nThey support brand awareness and lead generation.\n\nCustom targeting boosts efficiency and conversions.\n\nCampaigns can scale quickly with budget control.\n\nReal-time metrics help optimize performance.\n\nSocial media offers a level playing field for small and large brands.",
+    "images" : [
+      "https://eightclients.com.au/wp-content/uploads/2024/06/Traditional-vs-digital-1024x1024.jpg"
+    ]
   },
   {
-    "slideId": "Day3_S3",
-    "miniTitle": "Day 3",
-    "title": "Types of Advertising",
-    "description": "Objectives\n\nAwareness: Brand or reach campaigns.\n\nConsideration: Traffic, video views, engagement.\n\nConversion: Sales, signups, or lead generation.\n\nChoose objectives based on your funnel stage.\n\nClear objectives help measure ROI accurately.\n\nEach platform maps objectives to different ad \n\nformats.\n\n3",
-    "imgSrc": ""
+    "slideId": "S3",
+    "miniTitle": "Objectives",
+    "title": "Types of Advertising Objectives",
+    "description": "Awareness: Brand or reach campaigns.\n\nConsideration: Traffic, video views, engagement.\n\nConversion: Sales, signups, or lead generation.\n\nChoose objectives based on your funnel stage.\n\nClear objectives help measure ROI accurately.\n\nEach platform maps objectives to different ad formats.",
+    "images" : []
   },
   {
-    "slideId": "Day3_S4",
-    "miniTitle": "Day 3",
-    "title": "Understanding Targeted",
-    "description": "Advertising\n\nTargeted advertising shows ads to the right people.\n\nIt uses user data like age, behavior, and interests.\n\nYou avoid wasting budget on irrelevant users.\n\nCustom and lookalike audiences boost results.\n\nPlatforms like Facebook and LinkedIn excel at \n\ntargeting.\n\nPrecision targeting improves ad performance and \n\nROI.\n\n4",
-    "imgSrc": ""
+    "slideId": "S4",
+    "miniTitle": "Targeted",
+    "title": "Understanding Targeted Advertising",
+    "description": "Targeted advertising shows ads to the right people.\n\nIt uses user data like age, behavior, and interests.\n\nYou avoid wasting budget on irrelevant users.\n\nCustom and lookalike audiences boost results.\n\nPlatforms like Facebook and LinkedIn excel at targeting.\n\nPrecision targeting improves ad performance and ROI.",
+    "images" : [
+      "http://127.0.0.1:5500/audience_segmentation.webp"
+    ]
   },
   {
-    "slideId": "Day3_S5",
-    "miniTitle": "Day 3",
+    "slideId": "S5",
+    "miniTitle": "Demographic",
     "title": "Demographic Targeting",
-    "description": "Demographics include age, gender, income, and \n\neducation.\n\nPlatforms let you define these parameters.\n\nImportant for products with age or gender relevance.\n\nUseful for narrowing or expanding your audience.\n\nTest different demos for performance insights.\n\nDemographics influence messaging tone and \n\ndesign.\n\n5",
-    "imgSrc": ""
+    "description": "Demographics include age, gender, income, and education.\n\nPlatforms let you define these parameters.\n\nImportant for products with age or gender relevance.\n\nUseful for narrowing or expanding your audience.\n\nTest different demos for performance insights.\n\nDemographics influence messaging tone and design.",
+    "images" : [
+      "http://127.0.0.1:5500/demographics.png"
+    ]
   },
   {
-    "slideId": "Day3_S6",
-    "miniTitle": "Day 3",
-    "title": "Behavioral and Interest",
-    "description": "Targeting\n\nTargets based on users\u2019 online behavior and likes.\n\nGreat for lifestyle, entertainment, hobbies, and \n\nshopping.\n\nAllows hyper-personalized messaging and \n\nsegmentation.\n\nFacebook offers detailed behavior-based targeting.\n\nInterest targeting aligns ads with passions.\n\nImproves click-through and conversion rates \n\nsignificantly.\n\n6",
-    "imgSrc": ""
+    "slideId": "S6",
+    "miniTitle": "Behavioral",
+    "title": "Behavioral and Interest Targeting",
+    "description": "Targets based on users\u2019 online behavior and likes.\n\nGreat for lifestyle, entertainment, hobbies, and shopping.\n\nAllows hyper-personalized messaging and segmentation.\n\nFacebook offers detailed behavior-based targeting.\n\nInterest targeting aligns ads with passions.\n\nImproves click-through and conversion rates significantly.",
+    "images" : [
+      "http://127.0.0.1:5500/retargeting.png"
+    ]
   },
   {
-    "slideId": "Day3_S7",
-    "miniTitle": "Day 3",
-    "title": "Custom and Lookalike",
-    "description": "Audiences\n\nCustom audiences are built from your data: site \n\nvisitors, emails.\n\nLookalike audiences mirror your best customers.\n\nFacebook, LinkedIn, TikTok offer this feature.\n\nGreat for scaling while maintaining quality.\n\nEnsure source audiences are high quality.\n\nLookalikes bring higher conversion potential.\n\n7",
-    "imgSrc": ""
+    "slideId": "S7",
+    "miniTitle": "Lookalike",
+    "title": "Custom and Lookalike Audiences",
+    "description": "Custom audiences are built from your data: site visitors, emails.\n\nLookalike audiences mirror your best customers.\n\nFacebook, LinkedIn, TikTok offer this feature.\n\nGreat for scaling while maintaining quality.\n\nEnsure source audiences are high quality.\n\nLookalikes bring higher conversion potential.",
+    "images" : [
+      "http://127.0.0.1:5500/lookalike.webp"
+    ]
   },
   {
-    "slideId": "Day3_S8",
-    "miniTitle": "Day 3",
-    "title": "Popular Ad Formats:",
-    "description": "Overview\n\nEach platform offers multiple ad formats.\n\nImage ads: Simple, quick awareness.\n\nVideo ads: Engaging, storytelling.\n\nCarousel ads: Showcase products/features.\n\nStories/Reels: Vertical, immersive, full-screen.\n\nChoose formats based on goals and content.\n\n8",
-    "imgSrc": ""
+    "slideId": "S8",
+    "miniTitle": "Ad Formats",
+    "title": "Popular Ad Formats:Overview",
+    "description": "Each platform offers multiple ad formats.\n\nImage ads: Simple, quick awareness.\n\nVideo ads: Engaging, storytelling.\n\nCarousel ads: Showcase products/features.\n\nStories/Reels: Vertical, immersive, full-screen.\n\nChoose formats based on goals and content.",
+    "images" : []
   },
   {
-    "slideId": "Day3_S9",
-    "miniTitle": "Day 3",
-    "title": "Facebook & Instagram Ad",
-    "description": "Formats\n\nFeed ads: Static or video in the user feed.\n\nStories: Disappear after 24 hours, vertical full-screen.\n\nReels: Short-form video, great for engagement.\n\nCarousel: Scrollable multiple images/videos.\n\nMessenger: Conversational ad experience.\n\nShop ads drive eCommerce conversions directly.\n\n9",
-    "imgSrc": ""
+    "slideId": "S9",
+    "miniTitle": "Instagram",
+    "title": "Facebook & Instagram Ad Formats",
+    "description": "Feed ads: Static or video in the user feed.\n\nStories: Disappear after 24 hours, vertical full-screen.\n\nReels: Short-form video, great for engagement.\n\nCarousel: Scrollable multiple images/videos.\n\nMessenger: Conversational ad experience.\n\nShop ads drive eCommerce conversions directly.",
+    "images" : [
+      "http://127.0.0.1:5500/carousel.avif"
+    ]
   },
   {
-    "slideId": "Day3_S10",
-    "miniTitle": "Day 3",
+    "slideId": "S10",
+    "miniTitle": "LinkedIn",
     "title": "LinkedIn Ad Formats",
-    "description": "Sponsored content appears in the feed.\n\nText ads show on the sidebar.\n\nMessage ads go directly to inboxes.\n\nCarousel and video support B2B storytelling.\n\nEvent ads promote webinars and events.\n\nLinkedIn ads are ideal for B2B audiences.\n\n10",
-    "imgSrc": ""
+    "description": "Sponsored content appears in the feed.\n\nText ads show on the sidebar.\n\nMessage ads go directly to inboxes.\n\nCarousel and video support B2B storytelling.\n\nEvent ads promote webinars and events.\n\nLinkedIn ads are ideal for B2B audiences.",
+    "images" : ["http://127.0.0.1:5500/linkedin_ads.png"]
   },
   {
-    "slideId": "Day3_S11",
-    "miniTitle": "Day 3",
-    "title": "Twitter (X) and TikTok Ad",
-    "description": "Formats\n\nTwitter: Promoted Tweets, Trends, and Accounts.\n\nGreat for real-time campaigns and awareness.\n\nTikTok: In-feed videos, TopView (open app), and \n\nbranded hashtags.\n\nExcellent for virality and Gen Z targeting.\n\nEach format suits different goals and industries.\n\nMatch content tone with platform culture.\n\n11",
-    "imgSrc": ""
+    "slideId": "S11",
+    "miniTitle": "Twitter",
+    "title": "Twitter (X) and TikTok Ad Formats",
+    "description": "Twitter: Promoted Tweets, Trends, and Accounts.\n\nGreat for real-time campaigns and awareness.\n\nTikTok: In-feed videos, TopView (open app), and branded hashtags.\n\nExcellent for virality and Gen Z targeting.\n\nEach format suits different goals and industries.\n\nMatch content tone with platform culture.",
+    "images" : [
+      "http://127.0.0.1:5500/hashtags.webp"
+    ]
   },
   {
-    "slideId": "Day3_S12",
-    "miniTitle": "Day 3",
-    "title": "Video Advertising Best",
-    "description": "Practices\n\nKeep videos short\u2014under 30 seconds preferred.\n\nStart with a hook in the first 3 seconds.\n\nInclude captions for silent viewers.\n\nHighlight benefits visually.\n\nUse strong branding early.\n\nEnd with a clear call to action (CTA).\n\n12",
-    "imgSrc": ""
+    "slideId": "S12",
+    "miniTitle": "Video",
+    "title": "Video Advertising Best Practices",
+    "description": "Keep videos short\u2014under 30 seconds preferred.\n\nStart with a hook in the first 3 seconds.\n\nInclude captions for silent viewers.\n\nHighlight benefits visually.\n\nUse strong branding early.\n\nEnd with a clear call to action (CTA).",
+    "images" : [
+      "http://127.0.0.1:5500/video_hooks.webp"
+    ]
   },
   {
-    "slideId": "Day3_S13",
-    "miniTitle": "Day 3",
-    "title": "Image and Carousel Ad",
-    "description": "Tips\n\nUse high-quality, brand-aligned visuals.\n\nAdd minimal, bold text for key points.\n\nCarousels tell stories or show product features.\n\nMaintain consistency across slides.\n\nUse contrast and whitespace.\n\nAlways include a CTA in the last frame.\n\n13",
-    "imgSrc": ""
+    "slideId": "S13",
+    "miniTitle": "Ad Tips",
+    "title": "Image and Carousel Ad Tips",
+    "description": "Use high-quality, brand-aligned visuals.\n\nAdd minimal, bold text for key points.\n\nCarousels tell stories or show product features.\n\nMaintain consistency across slides.\n\nUse contrast and whitespace.\n\nAlways include a CTA in the last frame.",
+    "images" : [
+      "http://127.0.0.1:5500/carousel.avif"
+    ]
   },
   {
-    "slideId": "Day3_S14",
-    "miniTitle": "Day 3",
-    "title": "Audience Segmentation",
-    "description": "for Ads\n\nBreak your audience into smaller segments.\n\nSegment by location, device, behavior, or interest.\n\nTailor messaging to each group.\n\nImproves ad relevance and engagement.\n\nAllows A/B testing of creatives.\n\nBoosts overall campaign performance.\n\n14",
-    "imgSrc": ""
+    "slideId": "S14",
+    "miniTitle": "Audience",
+    "title": "Audience Segmentation for Ads",
+    "description": "Break your audience into smaller segments.\n\nSegment by location, device, behavior, or interest.\n\nTailor messaging to each group.\n\nImproves ad relevance and engagement.\n\nAllows A/B testing of creatives.\n\nBoosts overall campaign performance.",
+    "images" : [
+      "http://127.0.0.1:5500/audience_segmentation.webp"
+    ]
   },
   {
-    "slideId": "Day3_S15",
-    "miniTitle": "Day 3",
+    "slideId": "S15",
+    "miniTitle": "A/B",
     "title": "A/B Testing in Social Ads",
-    "description": "A/B testing compares ad elements.\n\nTest headlines, visuals, CTAs, or audiences.\n\nRun one change per test for clarity.\n\nUse platform tools to compare results.\n\nFind what drives clicks or conversions.\n\nContinuously optimize based on findings.\n\n15",
-    "imgSrc": ""
+    "description": "A/B testing compares ad elements.\n\nTest headlines, visuals, CTAs, or audiences.\n\nRun one change per test for clarity.\n\nUse platform tools to compare results.\n\nFind what drives clicks or conversions.\n\nContinuously optimize based on findings.",
+    "images" : [
+      "http://127.0.0.1:5500/ab.webp"
+    ]
   },
   {
-    "slideId": "Day3_S16",
-    "miniTitle": "Day 3",
+    "slideId": "S16",
+    "miniTitle": "Budget",
     "title": "Budget Planning Basics",
-    "description": "Set daily or lifetime budgets.\n\nChoose based on goals and audience size.\n\nStart small, then scale winners.\n\nUse platform estimates to predict reach.\n\nAllocate more to high-performing ads.\n\nMonitor spend daily to avoid overspending.\n\n16",
-    "imgSrc": ""
+    "description": "Set daily or lifetime budgets.\n\nChoose based on goals and audience size.\n\nStart small, then scale winners.\n\nUse platform estimates to predict reach.\n\nAllocate more to high-performing ads.\n\nMonitor spend daily to avoid overspending.",
+    "images" : [
+      "http://127.0.0.1:5500/budget_allocation.webp"
+    ]
   },
   {
-    "slideId": "Day3_S17",
-    "miniTitle": "Day 3",
+    "slideId": "S17",
+    "miniTitle": "Bidding",
     "title": "Bidding Strategies",
-    "description": "Manual bidding gives control over cost.\n\nAutomatic bidding optimizes for conversions.\n\nFacebook uses cost-per-result or cost-cap bids.\n\nTest different bidding options initially.\n\nMatch bid type to campaign objective.\n\nReview ROI metrics to decide scaling.\n\n17",
-    "imgSrc": ""
+    "description": "Manual bidding gives control over cost.\n\nAutomatic bidding optimizes for conversions.\n\nFacebook uses cost-per-result or cost-cap bids.\n\nTest different bidding options initially.\n\nMatch bid type to campaign objective.\n\nReview ROI metrics to decide scaling.",
+    "images" : [
+      "http://127.0.0.1:5500/cpc.png"
+    ]
   },
   {
-    "slideId": "Day3_S18",
-    "miniTitle": "Day 3",
-    "title": "Campaign Budget",
-    "description": "Optimization\n\nUse Campaign Budget Optimization (CBO) on \n\nFacebook.\n\nIt distributes budget across ad sets efficiently.\n\nHelps maximize return at lower costs.\n\nMonitor which sets get the most spend.\n\nReallocate if needed based on results.\n\nGreat for dynamic campaigns and scaling.\n\n18",
-    "imgSrc": ""
+    "slideId": "S18",
+    "miniTitle": "CBO",
+    "title": "Campaign Budget Optimization",
+    "description": "Use Campaign Budget Optimization (CBO) on Facebook.\n\nIt distributes budget across ad sets efficiently.\n\nHelps maximize return at lower costs.\n\nMonitor which sets get the most spend.\n\nReallocate if needed based on results.\n\nGreat for dynamic campaigns and scaling.",
+    "images" : [
+      "http://127.0.0.1:5500/cbo.png"
+    ]
   },
   {
-    "slideId": "Day3_S19",
-    "miniTitle": "Day 3",
-    "title": "Creative Strategy in",
-    "description": "Advertising\n\nCreative is the most important success factor.\n\nUse scroll-stopping visuals and clear messages.\n\nAddress pain points or desires early.\n\nInclude branding elements consistently.\n\nTest different angles and emotions.\n\nKeep adapting creatives to audience trends\n\n19",
-    "imgSrc": ""
+    "slideId": "S19",
+    "miniTitle": "Advertising",
+    "title": "Creative Strategy in Advertising",
+    "description": "Creative is the most important success factor.\n\nUse scroll-stopping visuals and clear messages.\n\nAddress pain points or desires early.\n\nInclude branding elements consistently.\n\nTest different angles and emotions.\n\nKeep adapting creatives to audience trends",
+    "images" : [
+      "http://127.0.0.1:5500/moodboard.png"
+    ]
   },
   {
-    "slideId": "Day3_S20",
-    "miniTitle": "Day 3",
+    "slideId": "S20",
+    "miniTitle": "Ad Copy",
     "title": "Writing Effective Ad Copy",
-    "description": "Start with a strong hook or question.\n\nUse simple, direct language.\n\nHighlight benefits, not just features.\n\nInclude social proof where possible.\n\nHave one clear CTA (e.g., Shop Now).\n\nAlign tone with audience expectations.\n\n20",
-    "imgSrc": ""
+    "description": "Start with a strong hook or question.\n\nUse simple, direct language.\n\nHighlight benefits, not just features.\n\nInclude social proof where possible.\n\nHave one clear CTA (e.g., Shop Now).\n\nAlign tone with audience expectations.",
+    "images" : [
+      "http://127.0.0.1:5500/typography.png"
+    ]
   },
   {
-    "slideId": "Day3_S21",
-    "miniTitle": "Day 3",
+    "slideId": "S21",
+    "miniTitle": "Landing",
     "title": "Landing Pages and Ads",
-    "description": "Ensure your ad and landing page match.\n\nConsistent messaging improves trust and \n\nconversions.\n\nPage should load fast and work on mobile.\n\nHighlight key offer or value upfront.\n\nUse testimonials or urgency elements.\n\nInclude easy-to-see CTAs.\n\n21",
-    "imgSrc": ""
+    "description": "Ensure your ad and landing page match.\n\nConsistent messaging improves trust and conversions.\n\nPage should load fast and work on mobile.\n\nHighlight key offer or value upfront.\n\nUse testimonials or urgency elements.\n\nInclude easy-to-see CTAs.",
+    "images" : ["http://127.0.0.1:5500/landing_page_wireframe.png"]
   },
   {
-    "slideId": "Day3_S22",
-    "miniTitle": "Day 3",
+    "slideId": "S22",
+    "miniTitle": "Tracking",
     "title": "Tracking and Analytics",
-    "description": "Install pixels or tags for conversion tracking.\n\nUse platform insights for performance data.\n\nTrack impressions, clicks, CTR, and conversions.\n\nCompare across audience segments.\n\nUse UTM links for campaign attribution.\n\nMonitor trends and refine strategy.\n\n22",
-    "imgSrc": ""
+    "description": "Install pixels or tags for conversion tracking.\n\nUse platform insights for performance data.\n\nTrack impressions, clicks, CTR, and conversions.\n\nCompare across audience segments.\n\nUse UTM links for campaign attribution.\n\nMonitor trends and refine strategy.",
+    "images" : [
+      "http://127.0.0.1:5500/cpc.png"
+    ]
   },
   {
-    "slideId": "Day3_S23",
-    "miniTitle": "Day 3",
+    "slideId": "S23",
+    "miniTitle": "Audiences",
     "title": "Audiences tire of repeated creatives.",
-    "description": "Watch for dropping engagement or CTR.\n\nRotate new visuals or copy every 1\u20132 weeks.\n\nTest seasonal or trend-based content.\n\nReuse winning creatives with tweaks.\n\nRefreshing boosts performance over time.\n\nAd Fatigue and Refreshing \n\nCreatives\n\n23",
-    "imgSrc": ""
+    "description": "Watch for dropping engagement or CTR.\n\nRotate new visuals or copy every 1\u20132 weeks.\n\nTest seasonal or trend-based content.\n\nReuse winning creatives with tweaks.\n\nRefreshing boosts performance over time.\n\nAd Fatigue and Refreshing Creatives",
+    "images" : ["http://127.0.0.1:5500/refresh_content.png"]
   },
   {
-    "slideId": "Day3_S24",
-    "miniTitle": "Day 3",
-    "title": "Compliance and Ad",
-    "description": "Policies\n\nEach platform has strict ad guidelines.\n\nAvoid banned content (e.g., false claims, adult).\n\nFollow rules for health, finance, or politics.\n\nUse clear, honest messaging.\n\nDisapprovals can lower account trust.\n\nReview policies before publishing new ads.\n\n24",
-    "imgSrc": ""
+    "slideId": "S24",
+    "miniTitle": "Compliance",
+    "title": "Compliance and Ad Policies",
+    "description": "Each platform has strict ad guidelines.\n\nAvoid banned content (e.g., false claims, adult).\n\nFollow rules for health, finance, or politics.\n\nUse clear, honest messaging.\n\nDisapprovals can lower account trust.\n\nReview policies before publishing new ads.",
+    "images" : ["http://127.0.0.1:5500/google_ads_disapproval.webp"]
   },
   {
-    "slideId": "Day3_S25",
-    "miniTitle": "Day 3",
+    "slideId": "S25",
+    "miniTitle": "Summary",
     "title": "Summary and Final Tips",
-    "description": "Targeted ads drive business results cost-effectively.\n\nChoose the right format and objective.\n\nTest everything\u2014copy, images, audiences, bids.\n\nUse analytics to optimize campaigns.\n\nRefresh creatives to avoid fatigue.\n\nGood strategy = right message + right person + right \n\ntime.\n\n25",
-    "imgSrc": ""
+    "description": "Targeted ads drive business results cost-effectively.\n\nChoose the right format and objective.\n\nTest everything\u2014copy, images, audiences, bids.\n\nUse analytics to optimize campaigns.\n\nRefresh creatives to avoid fatigue.\n\nGood strategy = right message + right person + right time.",
+    "images" : []
   }
 ]

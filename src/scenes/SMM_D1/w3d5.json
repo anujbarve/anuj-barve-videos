@@ -1,170 +1,196 @@
 [
   {
-    "slideId": "Day5_S1",
-    "miniTitle": "Day 5",
-    "title": "Introduction to Social",
-    "description": "Media Analytics\n\nAnalytics help measure success and guide strategy.\n\nThey track engagement, reach, growth, and \n\nsentiment.\n\nUse data to learn what works and what doesn\u2019t.\n\nGood analytics support content planning and ROI \n\nmeasurement.\n\nToday we explore performance metrics, sentiment, \n\ntools, competition, and growth.\n\nSmart decisions begin with strong data.\n\n1",
-    "imgSrc": ""
+    "slideId": "S1",
+    "miniTitle": "Introduction",
+    "title": "Introduction to Social Media Analytics",
+    "description": "Analytics help measure success and guide strategy.\n\nThey track engagement, reach, growth, and sentiment.\n\nUse data to learn what works and what doesn\u2019t.\n\nGood analytics support content planning and ROI measurement.\n\nToday we explore performance metrics, sentiment, tools, \n\nCompetition, and growth.\n\nSmart decisions begin with strong data.",
+    "images" : [
+      "http://127.0.0.1:5500/social-media-analytics.webp"
+    ]
   },
   {
-    "slideId": "Day5_S2",
-    "miniTitle": "Day 5",
+    "slideId": "S2",
+    "miniTitle": "Importance",
     "title": "Importance of Analytics",
-    "description": "Analytics provide proof of performance.\n\nThey help justify marketing spend to stakeholders.\n\nEnable data-driven decisions and continuous \n\nimprovement.\n\nReveal content trends and audience preferences.\n\nSupport campaign optimization in real time.\n\nData turns guesswork into strategy.\n\n2",
-    "imgSrc": ""
+    "description": "Analytics provide proof of performance.\n\nThey help justify marketing spend to stakeholders.\n\nEnable data-driven decisions and continuous improvement.\n\nReveal content trends and audience preferences.\n\nSupport campaign optimization in real time.\n\nData turns guesswork into strategy.",
+    "images" : [
+      "http://127.0.0.1:5500/social-media-tools.webp"
+    ]
   },
   {
-    "slideId": "Day5_S3",
-    "miniTitle": "Day 5",
+    "slideId": "S3",
+    "miniTitle": "Key",
     "title": "Key Social Media Metrics",
-    "description": "Reach: Total number of unique viewers.\n\nImpressions: Times content was displayed.\n\nEngagement: Likes, comments, shares, clicks.\n\nFollowers: Net growth or decline over time.\n\nCTR: Click-through rate on links or ads.\n\nConversions: Actions like signups or purchases.\n\n3",
-    "imgSrc": ""
+    "description": "Reach: Total number of unique viewers.\n\nImpressions: Times content was displayed.\n\nEngagement: Likes, comments, shares, clicks.\n\nFollowers: Net growth or decline over time.\n\nCTR: Click-through rate on links or ads.\n\nConversions: Actions like signups or purchases.",
+    "images" : [
+      "http://127.0.0.1:5500/social-media-metrics.webp"
+    ]
   },
   {
-    "slideId": "Day5_S4",
-    "miniTitle": "Day 5",
-    "title": "Engagement Rate",
-    "description": "Explained\n\nEngagement rate = Engagement \u00f7 Reach \u00d7 100\n\nShows how active your audience is.\n\nHigh engagement suggests strong content \n\nrelevance.\n\nCompare across platforms and post types.\n\nSet benchmarks for industry or goals.\n\nUse it to guide future content types.\n\n4",
-    "imgSrc": ""
+    "slideId": "S4",
+    "miniTitle": "Engagement",
+    "title": "Engagement Rate Explained",
+    "description": "Engagement rate = Engagement \u00f7 Reach \u00d7 100 \n\nShows how active your audience is.\n\nHigh engagement suggests strong content relevance.\n\nCompare across platforms and post types.\n\nSet benchmarks for industry or goals.\n\nUse it to guide future content types.",
+    "images" : [
+      "http://127.0.0.1:5500/engagement-rate-optimization-designs-5.png"
+    ]
   },
   {
-    "slideId": "Day5_S5",
-    "miniTitle": "Day 5",
+    "slideId": "S5",
+    "miniTitle": "Platform",
     "title": "Platform-Specific Metrics",
-    "description": "Instagram: Saves, story replies, profile visits.\n\nFacebook: Post reach, link clicks, reactions.\n\nX (Twitter): Retweets, quote tweets, impressions.\n\nLinkedIn: Clicks, job views, shares.\n\nYouTube: Watch time, subscribers, likes.\n\nTrack metrics that match your goals.\n\n5",
-    "imgSrc": ""
+    "description": "Instagram: Saves, story replies, profile visits.\n\nFacebook: Post reach, link clicks, reactions.\n\nX (Twitter): Retweets, quote tweets, impressions.\n\nLinkedIn: Clicks, job views, shares.\n\nYouTube: Watch time, subscribers, likes.\n\nTrack metrics that match your goals.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S6",
-    "miniTitle": "Day 5",
-    "title": "Sentiment Analysis",
-    "description": "Overview\n\nSentiment analysis evaluates user tone\u2014positive, \n\nneutral, or negative.\n\nIt reveals brand perception in real time.\n\nAnalyzes words used in comments, reviews, \n\nmentions.\n\nEssential during campaigns or crises.\n\nTools use AI to automate analysis.\n\nHelps shape tone and customer response strategy.\n\n6",
-    "imgSrc": ""
+    "slideId": "S6",
+    "miniTitle": "Overview",
+    "title": "Sentiment Analysis Overview",
+    "description": "Sentiment analysis evaluates user tone\u2014positive, neutral, or negative.\n\nIt reveals brand perception in real time.\n\nAnalyzes words used in comments, reviews, mentions.\n\nEssential during campaigns or crises.\n\nTools use AI to automate analysis.\n\nHelps shape tone and customer response strategy.",
+    "images" : [
+      "http://127.0.0.1:5500/sentiment.jpg"
+    ]
   },
   {
-    "slideId": "Day5_S7",
-    "miniTitle": "Day 5",
+    "slideId": "S7",
+    "miniTitle": "Human review",
     "title": "Manual: Human review of comments and feedback.",
-    "description": "Time-consuming but more nuanced.\n\nAutomated: Uses AI and NLP tools.\n\nFast and scalable for large datasets.\n\nTools: Brand24, Sprout Social, Mention.\n\nCombine both for deeper insights.\n\nManual vs. Automated \n\nSentiment\n\n7",
-    "imgSrc": ""
+    "description": "Time-consuming but more nuanced.\n\nAutomated: Uses AI and NLP tools.\n\nFast and scalable for large datasets.\n\nTools: Brand24, Sprout Social, Mention.\n\nCombine both for deeper insights.\n\nManual vs. Automated Sentiment",
+    "images" : [
+      "http://127.0.0.1:5500/human_review.png"
+    ]
   },
   {
-    "slideId": "Day5_S8",
-    "miniTitle": "Day 5",
-    "title": "Using Sentiment for",
-    "description": "Strategy\n\nTrack sentiment spikes after posts or events.\n\nDetect rising dissatisfaction early.\n\nUse feedback to adjust content tone.\n\nSpot brand advocates or influencers organically.\n\nHelps with reputation management.\n\nSentiment insights inform messaging and \n\npositioning.\n\n8",
-    "imgSrc": ""
+    "slideId": "S8",
+    "miniTitle": "Strategy",
+    "title": "Using Sentiment for Strategy",
+    "description": "Track sentiment spikes after posts or events.\n\nDetect rising dissatisfaction early.\n\nUse feedback to adjust content tone.\n\nSpot brand advocates or influencers organically.\n\nHelps with reputation management.\n\nSentiment insights inform messaging and positioning.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S9",
-    "miniTitle": "Day 5",
-    "title": "Best Tools for Social",
-    "description": "Analytics\n\nSprout Social: All-in-one analytics and scheduling.\n\nHootsuite: Dashboard with detailed reports.\n\nBuffer: Simpler insights and planning.\n\nMeta Insights: Facebook and Instagram analytics.\n\nTwitter/X Analytics: Native engagement metrics.\n\nChoose tools that match team size and goals.\n\n9",
-    "imgSrc": ""
+    "slideId": "S9",
+    "miniTitle": "Analytics",
+    "title": "Best Tools for Social Analytics",
+    "description": "Sprout Social: All-in-one analytics and scheduling.\n\nHootsuite: Dashboard with detailed reports.\n\nBuffer: Simpler insights and planning.\n\nMeta Insights: Facebook and Instagram analytics.\n\nTwitter/X Analytics: Native engagement metrics.\n\nChoose tools that match team size and goals.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S10",
-    "miniTitle": "Day 5",
+    "slideId": "S10",
+    "miniTitle": "Google Analytics",
     "title": "Google Analytics for Social",
-    "description": "Use GA to track social media traffic.\n\nMonitor source, bounce rate, session duration.\n\nSet up goals for signups, sales, or downloads.\n\nUse UTM parameters for tracking.\n\nIntegrates social campaigns with web performance.\n\nGA gives a holistic view of ROI.\n\n10",
-    "imgSrc": ""
+    "description": "Use GA to track social media traffic.\n\nMonitor source, bounce rate, session duration.\n\nSet up goals for signups, sales, or downloads.\n\nUse UTM parameters for tracking.\n\nIntegrates social campaigns with web performance.\n\nGA gives a holistic view of ROI.",
+    "images" : [
+      "http://127.0.0.1:5500/google-analytics-dashboard.png"
+    ]
   },
   {
-    "slideId": "Day5_S11",
-    "miniTitle": "Day 5",
-    "title": "Real-Time vs. Historical",
-    "description": "Data\n\nReal-time: Track live campaign performance.\n\nUseful for launches, events, or crises.\n\nHistorical: Reveals long-term trends and patterns.\n\nCompare monthly or quarterly performance.\n\nSet benchmarks using past data.\n\nBalance both for strategic decisions.\n\n11",
-    "imgSrc": ""
+    "slideId": "S11",
+    "miniTitle": "Data",
+    "title": "Real-Time vs. Historical Data",
+    "description": "Real-time: Track live campaign performance.\n\nUseful for launches, events, or crises.\n\nHistorical: Reveals long-term trends and patterns.\n\nCompare monthly or quarterly performance.\n\nSet benchmarks using past data.\n\nBalance both for strategic decisions.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S12",
-    "miniTitle": "Day 5",
+    "slideId": "S12",
+    "miniTitle": "Visualizing",
     "title": "Visualizing Data Effectively",
-    "description": "Use charts, graphs, and tables for clarity.\n\nPie charts show distribution (e.g., sentiment).\n\nLine graphs display trends over time.\n\nBar charts compare performance across platforms.\n\nKeep visuals clean and focused.\n\nHelps stakeholders quickly grasp results.\n\n12",
-    "imgSrc": ""
+    "description": "Use charts, graphs, and tables for clarity.\n\nPie charts show distribution (e.g., sentiment).\n\nLine graphs display trends over time.\n\nBar charts compare performance across platforms.\n\nKeep visuals clean and focused.\n\nHelps stakeholders quickly grasp results.",
+    "images" : [
+      "http://127.0.0.1:5500/VisualizationExample.png"
+    ]
   },
   {
-    "slideId": "Day5_S13",
-    "miniTitle": "Day 5",
-    "title": "Social Media Reports:",
-    "description": "What to Include\n\nExecutive summary of highlights.\n\nKPIs: Engagement, reach, conversions.\n\nAudience growth and demographics.\n\nTop-performing posts and campaigns.\n\nSentiment trends and insights.\n\nActionable recommendations for next steps.\n\n13",
-    "imgSrc": ""
+    "slideId": "S13",
+    "miniTitle": "Social",
+    "title": "Social Media Reports",
+    "description": "What to Include\n\nExecutive summary of highlights.\n\nKPIs: Engagement, reach, conversions.\n\nAudience growth and demographics.\n\nTop-performing posts and campaigns.\n\nSentiment trends and insights.\n\nActionable recommendations for next steps.",
+    "images" : [
+      "http://127.0.0.1:5500/social_media_report.webp"
+    ]
   },
   {
-    "slideId": "Day5_S14",
-    "miniTitle": "Day 5",
-    "title": "Benchmarking",
-    "description": "Performance\n\nCompare your metrics to competitors or industry \n\naverages.\n\nSet realistic benchmarks for reach, engagement, or \n\ngrowth.\n\nTrack over time to measure improvement.\n\nHelps evaluate campaign success.\n\nUse data from Statista, RivalIQ, or Sprout.\n\nBenchmarking provides context for numbers.\n\n14",
-    "imgSrc": ""
+    "slideId": "S14",
+    "miniTitle": "Benchmarking",
+    "title": "Benchmarking Performance",
+    "description": "Compare your metrics to competitors or industry averages.\n\nSet realistic benchmarks for reach, engagement, or growth.\n\nTrack over time to measure improvement.\n\nHelps evaluate campaign success.\n\nUse data from Statista, RivalIQ, or Sprout.\n\nBenchmarking provides context for numbers.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S15",
-    "miniTitle": "Day 5",
-    "title": "Competitive Analysis",
-    "description": "Benefits\n\nKnow what competitors post and how audiences \n\nreact.\n\nSpot trends and gaps in your niche.\n\nUnderstand competitor strengths and weaknesses.\n\nRefine your tone, timing, or formats.\n\nUse insights to differentiate your brand.\n\nStay agile in a fast-changing market.\n\n15",
-    "imgSrc": ""
+    "slideId": "S15",
+    "miniTitle": "Analysis",
+    "title": "Competitive Analysis Benefits",
+    "description": "Know what competitors post and how audiences react.\n\nSpot trends and gaps in your niche.\n\nUnderstand competitor strengths and weaknesses.\n\nRefine your tone, timing, or formats.\n\nUse insights to differentiate your brand.\n\nStay agile in a fast-changing market.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S16",
-    "miniTitle": "Day 5",
-    "title": "Tools for Competitive",
-    "description": "Analysis\n\nBuzzSumo: Content insights by engagement.\n\nSocialBlade: Track YouTube and Instagram stats.\n\nSimilarweb: Competitor traffic sources.\n\nRivalIQ: Full competitor social dashboards.\n\nManual tracking: Follow key accounts weekly.\n\nKeep tabs on content type, frequency, and reach.\n\n16",
-    "imgSrc": ""
+    "slideId": "S16",
+    "miniTitle": "Competitive",
+    "title": "Tools for Competitive Analysis",
+    "description": "BuzzSumo: Content insights by engagement.\n\nSocialBlade: Track YouTube and Instagram stats.\n\nSimilarweb: Competitor traffic sources.\n\nRivalIQ: Full competitor social dashboards.\n\nManual tracking: Follow key accounts weekly.\n\nKeep tabs on content type, frequency, and reach.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S17",
-    "miniTitle": "Day 5",
-    "title": "Hashtag and Keyword",
-    "description": "Tracking\n\nMonitor brand hashtags for campaign performance.\n\nTrack niche keywords for trend analysis.\n\nSee what content drives conversations.\n\nTools: Keyhole, BrandMentions, Talkwalker.\n\nDiscover audience language and interests.\n\nHelps with content and SEO alignment.\n\n17",
-    "imgSrc": ""
+    "slideId": "S17",
+    "miniTitle": "Hashtag",
+    "title": "Hashtag and Keyword Tracking",
+    "description": "Monitor brand hashtags for campaign performance.\n\nTrack niche keywords for trend analysis.\n\nSee what content drives conversations.\n\nTools: Keyhole, BrandMentions, Talkwalker.\n\nDiscover audience language and interests.\n\nHelps with content and SEO alignment.",
+    "images" : [
+      "http://127.0.0.1:5500/hashtags.webp"
+    ]
   },
   {
-    "slideId": "Day5_S18",
-    "miniTitle": "Day 5",
-    "title": "Setting SMART Goals for",
-    "description": "Growth\n\nSpecific: Clear objective (e.g., 1,000 followers).\n\nMeasurable: Use trackable metrics.\n\nAchievable: Based on current growth rate.\n\nRelevant: Tied to business outcomes.\n\nTime-bound: Deadlines ensure focus.\n\nGoals turn analytics into progress plans.\n\n18",
-    "imgSrc": ""
+    "slideId": "S18",
+    "miniTitle": "SMART",
+    "title": "Setting SMART Goals for Growth",
+    "description": "Specific: Clear objective (e.g., 1,000 followers).\n\nMeasurable: Use trackable metrics.\n\nAchievable: Based on current growth rate.\n\nRelevant: Tied to business outcomes.\n\nTime-bound: Deadlines ensure focus.\n\nGoals turn analytics into progress plans.",
+    "images" : [
+      "http://127.0.0.1:5500/smart-goals.png"
+    ]
   },
   {
-    "slideId": "Day5_S19",
-    "miniTitle": "Day 5",
-    "title": "Growth Strategy Through",
-    "description": "Data\n\nUse analytics to identify winning content types.\n\nRepurpose high-performing posts.\n\nDouble down on successful formats.\n\nTarget growth gaps\u2014platforms, regions, audiences.\n\nCreate experiments and track new approaches.\n\nLet data steer creative decisions.\n\n19",
-    "imgSrc": ""
+    "slideId": "S19",
+    "miniTitle": "Growth",
+    "title": "Growth Strategy Through Data",
+    "description": "Use analytics to identify winning content types.\n\nRepurpose high-performing posts.\n\nDouble down on successful formats.\n\nTarget growth gaps\u2014platforms, regions, audiences.\n\nCreate experiments and track new approaches.\n\nLet data steer creative decisions.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S20",
-    "miniTitle": "Day 5",
-    "title": "Audience Insights and",
-    "description": "Segmentation \n\nStudy age, location, gender, and device data.\n\nSegment audiences for tailored content.\n\nTrack behavior trends like viewing time.\n\nUnderstand what different groups respond to.\n\nPersonalization boosts engagement.\n\nAnalytics power precise segmentation.\n\n20",
-    "imgSrc": ""
+    "slideId": "S20",
+    "miniTitle": "Segmentation",
+    "title": "Audience Insights and Segmentation",
+    "description": " Study age, location, gender, and device data.\n\nSegment audiences for tailored content.\n\nTrack behavior trends like viewing time.\n\nUnderstand what different groups respond to.\n\nPersonalization boosts engagement.\n\nAnalytics power precise segmentation.",
+    "images" : [
+      "http://127.0.0.1:5500/audience_segmentation.webp"
+    ]
   },
   {
-    "slideId": "Day5_S21",
-    "miniTitle": "Day 5",
-    "title": "Platform Insights Deep",
-    "description": "Dive\n\nUse Meta Business Suite for FB and IG.\n\nTwitter Analytics shows tweet impact.\n\nLinkedIn gives industry and job title data.\n\nYouTube Studio offers watch time and retention.\n\nEach tool provides platform-specific behavior.\n\nLearn how audiences differ per platform.\n\n21",
-    "imgSrc": ""
+    "slideId": "S21",
+    "miniTitle": "Platform",
+    "title": "Platform Insights Deep Dive",
+    "description": "Use Meta Business Suite for FB and IG.\n\nTwitter Analytics shows tweet impact.\n\nLinkedIn gives industry and job title data.\n\nYouTube Studio offers watch time and retention.\n\nEach tool provides platform-specific behavior.\n\nLearn how audiences differ per platform.",
+    "images" : []
   },
   {
-    "slideId": "Day5_S22",
-    "miniTitle": "Day 5",
-    "title": "Social Listening and",
-    "description": "Metrics\n\nTrack brand mentions beyond direct engagement.\n\nMonitor tone and volume of conversations.\n\nTools like Mention or Brand24 help.\n\nReveal customer needs and competitor chatter.\n\nTurn listening into content opportunities.\n\nComplements core performance metrics.\n\n22",
-    "imgSrc": ""
+    "slideId": "S22",
+    "miniTitle": "Listening",
+    "title": "Social Listening and Metrics",
+    "description": "Track brand mentions beyond direct engagement.\n\nMonitor tone and volume of conversations.\n\nTools like Mention or Brand24 help.\n\nReveal customer needs and competitor chatter.\n\nTurn listening into content opportunities.\n\nComplements core performance metrics.",
+    "images" : [
+      "http://127.0.0.1:5500/social-listening-2.png"
+    ]
   },
   {
-    "slideId": "Day5_S23",
-    "miniTitle": "Day 5",
+    "slideId": "S23",
+    "miniTitle": "AI",
     "title": "AI predicts future engagement and growth.",
-    "description": "Identify emerging trends before competitors.\n\nTools like Sprinklr and Cortex use machine learning.\n\nSuggest post times, formats, and audiences.\n\nHelps scale high-impact strategies.\n\nAI refines analytics for faster decisions.\n\nPredictive and AI Analytics\n\n23",
-    "imgSrc": ""
+    "description": "Identify emerging trends before competitors.\n\nTools like Sprinklr and Cortex use machine learning.\n\nSuggest post times, formats, and audiences.\n\nHelps scale high-impact strategies.\n\nAI refines analytics for faster decisions.\n\nPredictive and AI Analytics",
+    "images" : []
   },
   {
-    "slideId": "Day5_S24",
-    "miniTitle": "Day 5",
-    "title": "Final Thoughts on",
-    "description": "Analytics\n\nAnalytics make your marketing accountable.\n\nTrack what matters to your brand.\n\nReport clearly, act strategically.\n\nBlend performance data with creativity.\n\nStay curious, test often, and learn fast.\n\nNumbers tell a story\u2014use it to grow.\n\n24",
-    "imgSrc": ""
+    "slideId": "S24",
+    "miniTitle": "Final Thoughts",
+    "title": "Final Thoughts on Analytics",
+    "description": "Analytics make your marketing accountable.\n\nTrack what matters to your brand.\n\nReport clearly, act strategically.\n\nBlend performance data with creativity.\n\nStay curious, test often, and learn fast.\n\nNumbers tell a story\u2014use it to grow.",
+    "images" : []
   }
 ]

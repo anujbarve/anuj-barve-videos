@@ -7,9 +7,15 @@ import s3 from './scenes/vid1/s3?scene';
 import path from './scenes/vid1/path?scene';
 import s1 from './scenes/SMM_D2/s1?scene';
 import new_layout from './scenes/sandbox/new_layout?scene';
+
 import './global.css';
+import title_page from './scenes/sandbox/theme_blue/title_page?scene';
+import welcome_page from './scenes/sandbox/theme_blue/welcome_page?scene';
+import basic_page from './scenes/sandbox/theme_blue/basic_page?scene';
+import multiple_images from './scenes/sandbox/theme_blue/multiple_images?scene';
+import quote_page from './scenes/sandbox/theme_blue/quote_page?scene';
 
 export default makeProject({
-  scenes: [dynamic],
-  audio,
+  scenes: [title_page,welcome_page,basic_page,multiple_images,quote_page],
+  // audio,
 });

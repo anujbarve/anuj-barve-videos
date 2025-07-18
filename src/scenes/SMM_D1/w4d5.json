@@ -4,174 +4,174 @@
     "miniTitle": "Introduction",
     "title": "Measuring Content Performance",
     "description": "To grow, you must measure.\n\nContent performance analysis reveals what works and what doesn’t.\n\nWe’ll explore key analytics, tracking conversions, A/B testing, auditing content, and improving it through optimization.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S2",
     "miniTitle": "Why Metrics Matter",
     "title": "The Value of Data",
     "description": "Analytics gives objective feedback.\n\nIt helps align content with audience behavior.\n\nSupports data-driven decision-making.\n\nReveals ROI, content gaps, and performance trends.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S3",
     "miniTitle": "Key Metrics",
     "title": "Essential Performance Indicators",
     "description": "Track pageviews, bounce rate, average time on page, and CTR.\n\nUse heatmaps to study interaction.\n\nFocus on metrics tied to business goals.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S4",
     "miniTitle": "Google Analytics",
     "title": "Using Google Analytics",
     "description": "Monitor traffic sources, user behavior, and page performance.\n\nSet goals and track funnels.\n\nIdentify high-converting and underperforming content easily.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S5",
     "miniTitle": "Tools",
     "title": "Other Analytics Tools",
     "description": "Use Hotjar or Crazy Egg for heatmaps.\n\nUse Mixpanel or Amplitude for detailed behavior analysis.\n\nEach tool gives unique insights into user journeys.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S6",
     "miniTitle": "Conversion",
     "title": "Understanding Conversions",
     "description": "A conversion is a desired action: sign-up, purchase, download.\n\nTie content to measurable business outcomes.\n\nUse analytics to see what drives action.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S7",
     "miniTitle": "Tracking",
     "title": "Conversion Tracking Techniques",
     "description": "Use UTM parameters to track links.\n\nEnable event tracking in GA.\n\nSet up thank-you page goals or button click events.\n\nTie conversions to specific content.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S8",
     "miniTitle": "Funnels",
     "title": "Mapping Conversion Funnels",
     "description": "Visualize user journeys from content to conversion.\n\nIdentify drop-offs.\n\nRefine messaging or UX to improve funnel flow.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S9",
     "miniTitle": "Attribution",
     "title": "Content Attribution Models",
     "description": "Assign credit to content pieces that drive conversions.\n\nUse first-click, last-click, or linear models.\n\nHelps optimize future content investment.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S10",
     "miniTitle": "A/B Testing",
     "title": "What is A/B Testing?",
     "description": "A/B testing compares two versions of content.\n\nChange headlines, CTAs, or visuals.\n\nMeasure which version performs better.\n\nUse tools like Optimizely or Google Optimize.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S11",
     "miniTitle": "Setup",
     "title": "How to Run A/B Tests",
     "description": "Set a hypothesis.\n\nCreate two versions.\n\nSplit traffic evenly.\n\nMeasure over time.\n\nMake changes based on results.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S12",
     "miniTitle": "What to Test",
     "title": "Content Elements to A/B Test",
     "description": "Headlines\n\nCalls to action\n\nImages\n\nPost length\n\nTone and language\n\nTest one element at a time for clarity.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S13",
     "miniTitle": "Results",
     "title": "Interpreting A/B Data",
     "description": "Look for statistically significant differences.\n\nAvoid changing too soon.\n\nUnderstand context—engagement might not always mean conversion.\n\nRepeat tests when needed.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S14",
     "miniTitle": "Audits",
     "title": "Why Content Audits Matter",
     "description": "Audits uncover outdated or underperforming content.\n\nThey improve quality, SEO, and consistency.\n\nPerform audits quarterly or biannually.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S15",
     "miniTitle": "Audit Steps",
     "title": "How to Perform a Content Audit",
     "description": "1. List all content\n\n2. Review metrics\n\n3. Score relevance\n\n4. Identify updates\n\n5. Plan action steps\n\nUse templates or tools for easier tracking.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S16",
     "miniTitle": "Content Types",
     "title": "Audit All Formats",
     "description": "Don’t limit to blogs.\n\nAudit videos, podcasts, guides, and infographics.\n\nMeasure effectiveness by format and platform.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S17",
     "miniTitle": "Updates",
     "title": "Refreshing Existing Content",
     "description": "Update stats, links, visuals, and examples.\n\nImprove readability and SEO.\n\nRe-promote refreshed content like new posts.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S18",
     "miniTitle": "Repurpose",
     "title": "Repurposing Top Content",
     "description": "Turn popular posts into:\n\nSocial threads\n\nVideos\n\nCarousels\n\nLead magnets\n\nRepurposing increases content ROI.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S19",
     "miniTitle": "Optimization",
     "title": "Techniques for Optimization",
     "description": "Improve page speed.\n\nEnhance meta tags.\n\nUse internal linking.\n\nAdd multimedia.\n\nShorten load time.\n\nAll small tweaks lead to big results.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S20",
     "miniTitle": "Mobile",
     "title": "Optimize for Mobile Users",
     "description": "Ensure content is readable on all devices.\n\nUse large fonts and short paragraphs.\n\nAvoid pop-ups.\n\nCheck speed and interactivity on mobile.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S21",
     "miniTitle": "User Signals",
     "title": "Tracking User Engagement",
     "description": "Monitor scroll depth.\n\nClicks on CTAs.\n\nSocial shares.\n\nTime spent per section.\n\nThese signals indicate content relevance and value.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S22",
     "miniTitle": "Feedback",
     "title": "Use Qualitative Feedback",
     "description": "Ask for reader feedback via surveys or comments.\n\nUse session recordings to see behavior.\n\nUse responses to improve tone and clarity.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S23",
     "miniTitle": "Tools",
     "title": "Tools for Performance Tracking",
     "description": "Google Analytics\n\nHotjar\n\nHubSpot\n\nSEMRush\n\nAhrefs\n\nThese tools support both data and content decisions.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S24",
     "miniTitle": "Pitfalls",
     "title": "Common Mistakes to Avoid",
     "description": "Tracking too many metrics\n\nIgnoring insights\n\nNot optimizing based on data\n\nSkipping regular audits\n\nFocus only on what matters.",
-    "imgSrc": ""
+    "images" : []
   },
   {
     "slideId": "S25",
     "miniTitle": "Conclusion",
     "title": "Refine Through Data",
     "description": "Data helps you improve.\n\nTrack, test, and optimize consistently.\n\nMeasure what matters.\n\nContent performance is a continuous cycle—not a one-time task.",
-    "imgSrc": ""
+    "images" : []
   }
 ]

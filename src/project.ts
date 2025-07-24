@@ -11,8 +11,9 @@ import new_layout from './scenes/sandbox/new_layout?scene';
 import './global.css';
 import welcome_page from './scenes/youtube/DAA/video_1/welcome_page?scene';
 import basic_page from './scenes/youtube/DAA/video_1/basic_page?scene';
+import algorithm_technology from './scenes/youtube/DAA/video_1/algorithm_technology?scene';
 
 export default makeProject({
-  scenes: [welcome_page,basic_page],
+  scenes: [algorithm_technology],
   // audio,
 });
